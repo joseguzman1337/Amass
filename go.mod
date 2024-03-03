@@ -17,7 +17,7 @@ require (
 	github.com/owasp-amass/config v0.1.3
 	github.com/owasp-amass/open-asset-model v0.2.0
 	github.com/owasp-amass/resolve v0.6.20
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.9.0
 	github.com/tylertreat/BoomFilters v0.0.0-20210315201527-1a82519a3e43
 	github.com/yl2chen/cidranger v1.0.2
 	github.com/yuin/gopher-lua v1.1.0
