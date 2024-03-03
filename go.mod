@@ -3,7 +3,7 @@ module github.com/owasp-amass/amass/v4
 go 1.19
 
 require (
-	github.com/PuerkitoBio/goquery v1.8.1
+	github.com/PuerkitoBio/goquery v1.9.1
 	github.com/caffix/netmap v0.2.4
 	github.com/caffix/pipeline v0.2.2
 	github.com/caffix/queue v0.1.4
