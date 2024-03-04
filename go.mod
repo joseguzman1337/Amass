@@ -5,8 +5,8 @@ go 1.19
 require (
 	github.com/PuerkitoBio/goquery v1.9.1
 	github.com/caffix/netmap v0.2.4
-	github.com/caffix/pipeline v0.2.2
-	github.com/caffix/queue v0.1.4
+	github.com/caffix/pipeline v0.2.3
+	github.com/caffix/queue v0.1.5
 	github.com/caffix/service v0.3.0
 	github.com/caffix/stringset v0.1.2
 	github.com/cjoudrey/gluaurl v0.0.0-20161028222611-31cbb9bef199
@@ -20,7 +20,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/tylertreat/BoomFilters v0.0.0-20210315201527-1a82519a3e43
 	github.com/yl2chen/cidranger v1.0.2
-	github.com/yuin/gopher-lua v1.1.0
+	github.com/yuin/gopher-lua v1.1.1
 	golang.org/x/net v0.21.0
 	layeh.com/gopher-json v0.0.0-20201124131017-552bb3c4c3bf
 )

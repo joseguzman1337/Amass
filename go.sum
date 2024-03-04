@@ -78,10 +78,10 @@ github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6r
 github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kBD4zp0CCIs=
 github.com/caffix/netmap v0.2.4 h1:mzgmk0u+khenSw2qjG8T/KwDmt9Pdb7X4MRPjU99Ghw=
 github.com/caffix/netmap v0.2.4/go.mod h1:Qnm5FUdqf7Ey7IiScgdg8FT7m/6y3XhoG8Z+ZJZtYI0=
-github.com/caffix/pipeline v0.2.2 h1:d1l7CiBe7jFDc4ksvnNgHVb3XlVlCRFXFo3I6guksuQ=
-github.com/caffix/pipeline v0.2.2/go.mod h1:NlUnsifT5h0B9C51DPdp99KjlZjREnE0Iev7R8gEn/s=
-github.com/caffix/queue v0.1.4 h1:sQbFzwGaPM1tRnQHWCgHOwj7hLuhDQ3BhY1/1TFbBiE=
-github.com/caffix/queue v0.1.4/go.mod h1:l8Eg7UTUHTRlc5aQ37mRVjzLN6eC7hgwimN0pA4UHe8=
+github.com/caffix/pipeline v0.2.3 h1:7FsxJti75hHH4RfokqcNiSrsAtiBO/EQ3k3YrzCIrAM=
+github.com/caffix/pipeline v0.2.3/go.mod h1:p3X+1cG07HG6XKAATTb/AbAZpYO/QW3B0dIwMW4obSg=
+github.com/caffix/queue v0.1.5 h1:uFx535UrEMkKIhaHeixz8C+ZJgvn1lZ07dLsuW/Na3I=
+github.com/caffix/queue v0.1.5/go.mod h1:ReDjIxSFHpMhVnomlQlZj86BzF9kTFDMyM33jXyDJGg=
 github.com/caffix/service v0.3.0 h1:Sb0GVFaYnn7mJCWyfcGr4AumdoHKT9+7gn6A96U88eY=
 github.com/caffix/service v0.3.0/go.mod h1:rh+bjCHTYUfxPatYy8xWHypfr0s95UhqUMqW1jC9GxQ=
 github.com/caffix/stringset v0.1.2 h1:AnBiZ5dH8AqOtDsUPdFt7ZzHk5RqmGixmfZFlxzZh4U=
@@ -550,8 +550,8 @@ github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9de
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
-github.com/yuin/gopher-lua v1.1.0 h1:BojcDhfyDWgU2f2TOzYK/g5p2gxMrku8oupLDqlnSqE=
-github.com/yuin/gopher-lua v1.1.0/go.mod h1:GBR0iDaNXjAgGg9zfCvksxSRnQx76gclCIb7kdAd1Pw=
+github.com/yuin/gopher-lua v1.1.1 h1:kYKnWBjvbNP4XLT3+bPEwAXJx262OhaHDWDVOPjL46M=
+github.com/yuin/gopher-lua v1.1.1/go.mod h1:GBR0iDaNXjAgGg9zfCvksxSRnQx76gclCIb7kdAd1Pw=
 go.etcd.io/etcd/api/v3 v3.5.0/go.mod h1:cbVKeC6lCfl7j/8jBhAK6aIYO9XOjdptoxU/nLQcPvs=
 go.etcd.io/etcd/client/pkg/v3 v3.5.0/go.mod h1:IJHfcCEKxYu1Os13ZdwCwIUTUVGYTSAM3YSwc9/Ac1g=
 go.etcd.io/etcd/client/v2 v2.305.0/go.mod h1:h9puh54ZTgAKtEbut2oe9P4L/oqKCVB6xsXlzd7alYQ=
