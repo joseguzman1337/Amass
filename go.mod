@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.1
-	github.com/caffix/netmap v0.2.4
+	github.com/caffix/netmap v0.2.5
 	github.com/caffix/pipeline v0.2.3
 	github.com/caffix/queue v0.1.5
 	github.com/caffix/service v0.3.0
@@ -13,7 +13,7 @@ require (
 	github.com/fatih/color v1.16.0
 	github.com/geziyor/geziyor v0.0.0-20230315135110-a242b58aaa65
 	github.com/miekg/dns v1.1.58
-	github.com/owasp-amass/asset-db v0.3.2
+	github.com/owasp-amass/asset-db v0.3.3
 	github.com/owasp-amass/config v0.1.3
 	github.com/owasp-amass/open-asset-model v0.2.0
 	github.com/owasp-amass/resolve v0.7.3
@@ -51,12 +51,12 @@ require (
 	github.com/gobwas/ws v1.2.1 // indirect
 	github.com/golang/glog v1.2.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
-	github.com/google/uuid v1.3.0 // indirect
+	github.com/google/uuid v1.3.1 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
-	github.com/jackc/pgx/v5 v5.4.2 // indirect
+	github.com/jackc/pgx/v5 v5.4.3 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
@@ -87,9 +87,9 @@ require (
 	gorm.io/datatypes v1.2.0 // indirect
 	gorm.io/driver/mysql v1.5.1 // indirect
 	gorm.io/driver/postgres v1.5.2 // indirect
-	gorm.io/gorm v1.25.2 // indirect
+	gorm.io/gorm v1.25.4 // indirect
 	modernc.org/libc v1.24.1 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
-	modernc.org/memory v1.6.0 // indirect
-	modernc.org/sqlite v1.24.0 // indirect
+	modernc.org/memory v1.7.1 // indirect
+	modernc.org/sqlite v1.25.0 // indirect
 )
