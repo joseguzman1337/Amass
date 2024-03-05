@@ -13,7 +13,7 @@ require (
 	github.com/fatih/color v1.16.0
 	github.com/geziyor/geziyor v0.0.0-20230315135110-a242b58aaa65
 	github.com/miekg/dns v1.1.58
-	github.com/owasp-amass/asset-db v0.3.3
+	github.com/owasp-amass/asset-db v0.3.5
 	github.com/owasp-amass/config v0.1.3
 	github.com/owasp-amass/open-asset-model v0.2.0
 	github.com/owasp-amass/resolve v0.7.3
