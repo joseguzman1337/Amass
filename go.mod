@@ -10,7 +10,7 @@ require (
 	github.com/caffix/service v0.3.0
 	github.com/caffix/stringset v0.1.2
 	github.com/cjoudrey/gluaurl v0.0.0-20161028222611-31cbb9bef199
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.17.0
 	github.com/geziyor/geziyor v0.0.0-20230315135110-a242b58aaa65
 	github.com/miekg/dns v1.1.59
 	github.com/owasp-amass/asset-db v0.3.5
