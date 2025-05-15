@@ -1,6 +1,6 @@
 module github.com/owasp-amass/amass/v4
 
-go 1.19
+go 1.21
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.1
@@ -10,7 +10,7 @@ require (
 	github.com/caffix/service v0.3.0
 	github.com/caffix/stringset v0.1.2
 	github.com/cjoudrey/gluaurl v0.0.0-20161028222611-31cbb9bef199
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.18.0
 	github.com/geziyor/geziyor v0.0.0-20230315135110-a242b58aaa65
 	github.com/miekg/dns v1.1.59
 	github.com/owasp-amass/asset-db v0.3.5
@@ -80,7 +80,7 @@ require (
 	golang.org/x/crypto v0.22.0 // indirect
 	golang.org/x/mod v0.16.0 // indirect
 	golang.org/x/sync v0.6.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/sys v0.25.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.19.0 // indirect
