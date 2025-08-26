@@ -15,7 +15,7 @@ require (
 	github.com/miekg/dns v1.1.68
 	github.com/owasp-amass/asset-db v0.3.5
 	github.com/owasp-amass/config v0.2.1
-	github.com/owasp-amass/open-asset-model v0.2.1-0.20231026212004-a560d4ce92ac
+	github.com/owasp-amass/open-asset-model v0.15.0
 	github.com/owasp-amass/resolve v0.7.3
 	github.com/stretchr/testify v1.9.0
 	github.com/tylertreat/BoomFilters v0.0.0-20210315201527-1a82519a3e43
