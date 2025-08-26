@@ -4,7 +4,7 @@ WORKDIR /go/src/github.com/owasp-amass/amass
 COPY . .
 RUN go install -v ./...
 
-FROM alpine:latest@sha256:77726ef6b57ddf65bb551896826ec38bc3e53f75cdde31354fbffb4f25238ebd
+FROM alpine:latest@sha256:4bcff63911fcb4448bd4fdacec207030997caf25e9bea4045fa6c8c44de311d1
 RUN apk --no-cache add ca-certificates
 COPY --from=build /go/bin/amass /bin/amass
 ENV HOME /
