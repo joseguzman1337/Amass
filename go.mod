@@ -1,6 +1,6 @@
 module github.com/owasp-amass/amass/v4
 
-go 1.24
+go 1.24.0
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.1
@@ -16,7 +16,7 @@ require (
 	github.com/owasp-amass/asset-db v0.23.1
 	github.com/owasp-amass/config v0.2.1
 	github.com/owasp-amass/open-asset-model v0.15.0
-	github.com/owasp-amass/resolve v0.7.3
+	github.com/owasp-amass/resolve v0.9.6
 	github.com/stretchr/testify v1.11.1
 	github.com/tylertreat/BoomFilters v0.0.0-20210315201527-1a82519a3e43
 	github.com/yl2chen/cidranger v1.0.2
@@ -76,7 +76,7 @@ require (
 	golang.org/x/sync v0.16.0 // indirect
 	golang.org/x/sys v0.35.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
-	golang.org/x/time v0.5.0 // indirect
+	golang.org/x/time v0.11.0 // indirect
 	golang.org/x/tools v0.35.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
