@@ -5,7 +5,7 @@ go 1.24
 require (
 	github.com/PuerkitoBio/goquery v1.9.1
 	github.com/caffix/netmap v0.2.5
-	github.com/caffix/pipeline v0.2.3
+	github.com/caffix/pipeline v0.2.5
 	github.com/caffix/queue v0.3.1
 	github.com/caffix/service v0.3.0
 	github.com/caffix/stringset v0.2.0
