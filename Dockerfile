@@ -1,4 +1,4 @@
-FROM golang:1.25-alpine@sha256:6104e2bbe9f6a07a009159692fe0df1a97b77f5b7409ad804b17d6916c635ae5 as build
+FROM golang:1.25-alpine@sha256:ac09a5f469f307e5da71e766b0bd59c9c49ea460a528cc3e6686513d64a6f1fb as build
 RUN apk --no-cache add git
 WORKDIR /go/src/github.com/owasp-amass/amass
 COPY . .
