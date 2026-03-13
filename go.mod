@@ -12,16 +12,16 @@ require (
 	github.com/cjoudrey/gluaurl v0.0.0-20161028222611-31cbb9bef199
 	github.com/fatih/color v1.16.0
 	github.com/geziyor/geziyor v0.0.0-20230315135110-a242b58aaa65
-	github.com/miekg/dns v1.1.69
+	github.com/miekg/dns v1.1.72
 	github.com/owasp-amass/asset-db v0.24.1
 	github.com/owasp-amass/config v0.2.1
 	github.com/owasp-amass/open-asset-model v0.15.1-0.20260306015734-5261c591eef2
-	github.com/owasp-amass/resolve v0.7.3
+	github.com/owasp-amass/resolve v0.10.0
 	github.com/stretchr/testify v1.11.1
 	github.com/tylertreat/BoomFilters v0.0.0-20210315201527-1a82519a3e43
 	github.com/yl2chen/cidranger v1.0.2
 	github.com/yuin/gopher-lua v1.1.1
-	golang.org/x/net v0.50.0
+	golang.org/x/net v0.51.0
 	layeh.com/gopher-json v0.0.0-20201124131017-552bb3c4c3bf
 )
 
@@ -73,7 +73,7 @@ require (
 	golang.org/x/sync v0.19.0 // indirect
 	golang.org/x/sys v0.41.0 // indirect
 	golang.org/x/text v0.34.0 // indirect
-	golang.org/x/time v0.5.0 // indirect
+	golang.org/x/time v0.14.0 // indirect
 	golang.org/x/tools v0.42.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
