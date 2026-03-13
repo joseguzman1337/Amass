@@ -30,7 +30,7 @@ jobs:
           go-version: ${{ matrix.go-version }}
       -
         name: checkout
-        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       -
         name: simple test
         run: go test -v ./...
@@ -56,7 +56,7 @@ jobs:
         with:
           go-version: 1.19
       - name: checkout
-        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       - name: measure coverage
         run: go test -v -coverprofile=coverage.out ./...
       - name: report coverage
