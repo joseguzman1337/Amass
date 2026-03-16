@@ -3,7 +3,7 @@ module github.com/owasp-amass/amass/v4
 go 1.26.0
 
 require (
-	github.com/PuerkitoBio/goquery v1.11.0
+	github.com/PuerkitoBio/goquery v1.12.0
 	github.com/caffix/netmap v0.2.5
 	github.com/caffix/pipeline v0.2.5
 	github.com/caffix/queue v0.4.1-0.20260303044231-38e3190f084d
@@ -21,7 +21,7 @@ require (
 	github.com/tylertreat/BoomFilters v0.0.0-20210315201527-1a82519a3e43
 	github.com/yl2chen/cidranger v1.0.2
 	github.com/yuin/gopher-lua v1.1.1
-	golang.org/x/net v0.51.0
+	golang.org/x/net v0.52.0
 	layeh.com/gopher-json v0.0.0-20201124131017-552bb3c4c3bf
 )
 
@@ -70,9 +70,9 @@ require (
 	github.com/temoto/robotstxt v1.1.2 // indirect
 	go.uber.org/ratelimit v0.3.0 // indirect
 	golang.org/x/mod v0.33.0 // indirect
-	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.41.0 // indirect
-	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 	golang.org/x/time v0.14.0 // indirect
 	golang.org/x/tools v0.42.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
