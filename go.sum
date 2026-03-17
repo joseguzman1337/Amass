@@ -479,8 +479,8 @@ github.com/openzipkin/zipkin-go v0.2.5/go.mod h1:KpXfKdgRDnnhsxw4pNIH9Md5lyFqKUa
 github.com/orisano/pixelmatch v0.0.0-20210112091706-4fa4c7ba91d5/go.mod h1:nZgzbfBr3hhjoZnS66nKrHmduYNpc34ny7RK4z5/HM0=
 github.com/orisano/pixelmatch v0.0.0-20220722002657-fb0b55479cde h1:x0TT0RDC7UhAVbbWWBzr41ElhJx5tXPWkIHA2HWPRuw=
 github.com/orisano/pixelmatch v0.0.0-20220722002657-fb0b55479cde/go.mod h1:nZgzbfBr3hhjoZnS66nKrHmduYNpc34ny7RK4z5/HM0=
-github.com/owasp-amass/asset-db v0.24.1 h1:PJQpxXIxtfPyEBue6QzBoTtZQSV+pkREkt8tpvcjSn0=
-github.com/owasp-amass/asset-db v0.24.1/go.mod h1:okei96ySPHJSC/OjHkIlTBmDZSLclUd7N5fvoQB94aI=
+github.com/owasp-amass/asset-db v0.24.3 h1:OCwHj4BN0zv6I0ckdQ4ae7lnr7SjCk+MlGpcC/1bFAg=
+github.com/owasp-amass/asset-db v0.24.3/go.mod h1:okei96ySPHJSC/OjHkIlTBmDZSLclUd7N5fvoQB94aI=
 github.com/owasp-amass/config v0.2.1 h1:5erzbclW9baOtoF+CP1xTbdgX+2Jm2aaeAxhfFobuj4=
 github.com/owasp-amass/config v0.2.1/go.mod h1:RQPOY4p59dxphZxfXPzHewJbyfizZexp8BUtwzIt7lQ=
 github.com/owasp-amass/open-asset-model v0.15.1-0.20260306015734-5261c591eef2 h1:8j0HL8kF9cCyJiIti4ZpX9Avn3KVTJr6msGpTx791j4=
