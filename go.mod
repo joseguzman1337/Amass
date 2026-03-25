@@ -10,7 +10,7 @@ require (
 	github.com/caffix/service v0.3.0
 	github.com/caffix/stringset v0.2.1-0.20260303044338-0122c4694af1
 	github.com/cjoudrey/gluaurl v0.0.0-20161028222611-31cbb9bef199
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.19.0
 	github.com/geziyor/geziyor v0.0.0-20230315135110-a242b58aaa65
 	github.com/miekg/dns v1.1.72
 	github.com/owasp-amass/asset-db v0.24.3
@@ -55,7 +55,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 	github.com/ncruces/go-strftime v1.0.0 // indirect
